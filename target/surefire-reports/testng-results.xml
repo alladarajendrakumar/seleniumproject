@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite1" duration-ms="38218" started-at="2017-05-21T03:46:17Z" finished-at="2017-05-21T03:46:55Z">
+    <groups>
+    </groups>
+    <test name="Regression1" duration-ms="38218" started-at="2017-05-21T03:46:17Z" finished-at="2017-05-21T03:46:55Z">
+      <class name="com.narendra.qa.MyTestClass">
+        <test-method status="PASS" signature="googleTest01()[pri:0, instance:com.narendra.qa.MyTestClass@668bc3d5]" name="googleTest01" duration-ms="13112" started-at="2017-05-20T20:46:17Z" finished-at="2017-05-20T20:46:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- googleTest01 -->
+        <test-method status="PASS" signature="googleTest02()[pri:0, instance:com.narendra.qa.MyTestClass@668bc3d5]" name="googleTest02" duration-ms="12609" started-at="2017-05-20T20:46:30Z" finished-at="2017-05-20T20:46:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- googleTest02 -->
+        <test-method status="PASS" signature="googleTest03()[pri:0, instance:com.narendra.qa.MyTestClass@668bc3d5]" name="googleTest03" duration-ms="12468" started-at="2017-05-20T20:46:43Z" finished-at="2017-05-20T20:46:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- googleTest03 -->
+      </class> <!-- com.narendra.qa.MyTestClass -->
+    </test> <!-- Regression1 -->
+  </suite> <!-- Suite1 -->
+</testng-results>

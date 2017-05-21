@@ -4,9 +4,13 @@ import org.testng.annotations.Test;
 
 public class MyTestClass {
 	
-	
-	
 	@Test
+	public void googleTest01(){
+		System.out.println("Test 01");
+	}
+	
+	
+/*	@Test
 	public void googleTest01(){
 		SampleClass sc = new SampleClass();
 		sc.myGoogleSearch("Automation Testing using Selenium");
@@ -24,6 +28,6 @@ public class MyTestClass {
 		sc.myGoogleSearch("Automation Testing using Test Complete");
 		
 	}
-
+*/
 
 }
